@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="center">📬 Connect with Me</h3>
+<h3 align="center">📬 Contact Me</h3>
 <p align="center">
   <a href="https://t.me/Shinryuuu" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
